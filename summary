@@ -1,0 +1,69 @@
+======---q4---=======
+Sat Mar 16 02:18:16 EDT 2019
+Checking format violation by a script...
+File q4.c, line 105: [PUT SPACE AROUND OPERATORS]:
+         "slope-intercept form:\n");
+File q4.c, line 106: [PUT SPACE AROUND OPERATORS]:
+  printf("1) Two-point form\n");
+File q4.c, line 107: [PUT SPACE AROUND OPERATORS]:
+  printf("2) Point-slope\n");
+File q4.c, line 120: [PUT SPACE AROUND OPERATORS]:
+  printf("Enter the x-y coordinates for first point: ");
+File q4.c, line 122: [PUT SPACE AROUND OPERATORS]:
+  printf("Enter the x-y coordinates for second point: ");
+File q4.c, line 132: [PUT SPACE AROUND OPERATORS]:
+  printf("Enter the x-y coordinates of a point: ");
+File q4.c, line 161: [PUT SPACE AROUND OPERATORS]:
+  printf("Two-point form\n");
+File q4.c, line 171: [PUT SPACE AROUND OPERATORS]:
+  printf("Point-slope form\n");
+File q4.c, line 179: [PUT SPACE AROUND OPERATORS]:
+  printf("Slope-intercept form\n");
+Compiling q4.c to q4
+Comparing using input q4.input.1 and answer q4.ans.1
+Diff output (empty line means correct):
+
+======---q6---=======
+Sat Mar 16 02:18:16 EDT 2019
+Checking format violation by a script...
+File q6.c, line 107: [PUT SPACE AROUND OPERATORS]:
+  printf("Coefficient of thermal conductivity (W/m-K) >> ");
+File q6.c, line 113: [PUT SPACE AROUND OPERATORS]:
+  printf("Cross-sectional area of conductor: (W^2) >> ");
+File q6.c, line 160: [PUT SPACE AROUND OPERATORS]:
+  printf("Coefficient of thermal conductivity is %f W/m-K.\n",
+File q6.c, line 217: [PUT SPACE AROUND OPERATORS]:
+  printf("k = %.4f W/m-K               T1 = %.0f K\n", thermal_conductivity, 
+Compiling q6.c to q6
+Comparing using input q6.input.5 and answer q6.ans.5
+Diff output (empty line means correct):
+
+Comparing using input q6.input.2 and answer q6.ans.2
+Diff output (empty line means correct):
+
+Comparing using input q6.input.6 and answer q6.ans.6
+Diff output (empty line means correct):
+
+Comparing using input q6.input.3 and answer q6.ans.3
+Diff output (empty line means correct):
+
+Comparing using input q6.input.4 and answer q6.ans.4
+Diff output (empty line means correct):
+
+Comparing using input q6.input.1 and answer q6.ans.1
+Diff output (empty line means correct):
+
+======---q9---=======
+Sat Mar 16 02:18:16 EDT 2019
+Checking format violation by a script...
+Compiling q9.c to q9
+Comparing using input q9.input.1 and answer q9.ans.1
+Diff output (empty line means correct):
+
+======---q14---=======
+Sat Mar 16 02:18:16 EDT 2019
+Checking format violation by a script...
+Compiling q14.c to q14
+Comparing using input q14.input.1 and answer q14.ans.1
+Diff output (empty line means correct):
+
